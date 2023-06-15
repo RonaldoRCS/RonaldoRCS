@@ -29,12 +29,10 @@
   - [ESP-32 Module progamming with c++](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
    
 - <b>the APP</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-[<img align="left" alt="ChronoChromo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-https://www.instagram.com/chronochromo/
+  - Developed using No-Coding Block MIT APP-Inventor Tool
+  - Available on Google Play https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ronaldo C. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [linkedin]: https://linkedin.com/in/CRonaldo
