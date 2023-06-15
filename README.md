@@ -1,5 +1,5 @@
 <h2>Welcome, I'm Ronaldo! <br/><a href="https://github.com/RonaldoRCS"> <a href="https://www.[linkedin.com/in/joshmadakor/]
-                                                                          (https://www.linkedin.com/in/cronaldo/)">Business Analyst | Data Analyst | Reporting Specialist | Excel Expert</a>
+                                                                          (https://www.linkedin.com/in/cronaldo/)">Reporting Specialist | Excel Expert | Business Analyst | Data Analyst</a>
 
 
 <b>👨‍💻 Reporting Projects:</h2>
@@ -24,15 +24,23 @@
 
 - <b> Concept</b>
   - [An IoT design wood object](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+[<img align="left" alt="ChronoChromo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/joshmadakor/
+
   
 - <b> the Software</b>
   - [ESP-32 Module progamming with c++](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
    
 - <b>the APP</b>
   - Developed using No-Coding Block MIT APP-Inventor Tool
-  - Available on Google Play https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Available on Google Play https://play.google.com/store/apps/details?id=appinventor.ai_ronaldonalro.ChronoChromo_New
 
-<h2>Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Ronaldo C. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]: https://linkedin.com/in/CRonaldo
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
